@@ -22,7 +22,5 @@ def predict():
     return render_template('index.html', result = resu)
 
 
-if __name__ == "__main__":
-    app.run()
 
 
